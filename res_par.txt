@@ -1,0 +1,5 @@
+Tiempo de ejecucion: 1245006 ms
+Tiempo de ejecucion: 1184246 ms
+Tiempo de ejecucion: 1248235 ms
+Tiempo de ejecucion: 1334316 ms
+Tiempo de ejecucion: 1200503 ms
